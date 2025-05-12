@@ -1,0 +1,49 @@
+# Compiled output
+dist
+build
+out
+lib
+esm
+types
+declaration
+
+# Dependencies
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE and editor specific
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+*.log.*
+debug.log*
+history.txt
+
+# Temporary files
+tmp
+temp
+*.tmp
+
+# Optional: Ignore coverage reports
+coverage
+
+# Optional: Ignore documentation builds
+docs/_build
+
